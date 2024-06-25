@@ -84,6 +84,18 @@
 
 ![output_36_3](https://github.com/Shahrukhkhan1580/CODIT--IRIS_PROJECT-/assets/169712366/920899b8-f27b-45cf-a282-76ea21033f8e)
 
+# **Insights**
+## **Insights from the Iris Dataset:**
+###  **1. Setosa species has the smallest petal length and width, which is significantly different from Versicolor and Virginica.**
+###  **2. Virginica species generally has larger sepal and petal dimensions compared to Setosa and Versicolor.** 
+###  **3. There is a strong positive correlation between petal length and petal width, indicating that as petal length increases, petal width also increases.** 
+###  **4. Sepal width shows a weak correlation with other features, suggesting it might not be a strong predictor of species on its own.**
+
+
+# **This Project is Created By Shahrukh Khan (Data Analyst/Business Analyst)**
+## **Please visit my GitHub account for more info**--(https://github.com/Shahrukhkhan1580)
+## **Visit my Linkedin account for more details about me**--(www.linkedin.com/in/shahrukhkhaan)
+
 # **CREATER :** *SHAHRUKH KHAN (DATA/BUSINESS ANALYST)*
 
 
